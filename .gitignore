@@ -1,0 +1,11 @@
+
+# Terraform downloaded files and local state
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Local secrets
+.env
+*.pem
